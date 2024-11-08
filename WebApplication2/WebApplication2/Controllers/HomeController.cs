@@ -23,11 +23,17 @@ namespace WebApplication3.Controllers
 
 
         [HttpPost]
-        public IActionResult Index(string email, string pswd)
+        public IActionResult Index(string email, string pwd)
         {
-            if (email == "admin@gmail.com" && pswd == "aptech123")
+            if (email == "admin@gmail.com" && pwd == "aptech123")
             {
-                return Content("Thankyou Login Successfully");
+                /*                return Content("Thankyou Login Successfully");
+                 *                
+                */
+                TempData["userData"] = "User Email is" + email;
+                TempData.Keep();
+                return RedirectToAction("Privacy");
+
             }
             return View();
         }
