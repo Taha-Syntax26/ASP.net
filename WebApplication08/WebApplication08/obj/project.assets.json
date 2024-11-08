@@ -8620,11 +8620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asp\\Desktop\\New folder\\WebApplication08\\WebApplication08\\WebApplication08.csproj",
+      "projectUniqueName": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\WebApplication08\\WebApplication08\\WebApplication08.csproj",
       "projectName": "WebApplication08",
-      "projectPath": "C:\\Users\\asp\\Desktop\\New folder\\WebApplication08\\WebApplication08\\WebApplication08.csproj",
+      "projectPath": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\WebApplication08\\WebApplication08\\WebApplication08.csproj",
       "packagesPath": "C:\\Users\\asp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asp\\Desktop\\New folder\\WebApplication08\\WebApplication08\\obj\\",
+      "outputPath": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\WebApplication08\\WebApplication08\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -19,6 +19,8 @@ namespace WebApplication08.Controllers
 
         public IActionResult Airbuds()
         {
+            TempData["Brand"] = "Apple";
+
             TempData.Keep();
 
             return View();
