@@ -37,8 +37,10 @@ namespace WebApplication3.Controllers
             }
             return View();
         }
+      
 
-        public IActionResult Privacy()
+     public IActionResult Privacy()
+
         {
             return View();
         }
@@ -48,5 +50,23 @@ namespace WebApplication3.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        [HttpGet]
+        public IActionResult my()
+        {
+
+
+            return View();
+        }
+        [HttpPost]
+        public IActionResult my(IFormCollection frm)
+        {
+            string name = frm["email"];
+            string pass = frm["pwd"];
+            ViewBag.a = name;
+
+            return View();
+        }
     }
 }
+    
