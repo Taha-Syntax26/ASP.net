@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <form method="post" enctype="multipart/form-data" asp-controller="My" asp-action="Index">
+        @Html.AntiForgeryToken()
+        <table>
+            <tr>
+                <td>First Name: </td>
+                <td><input type="text" id="txtFirstName" name="FirstName" /></td>
+            </tr>
+            <tr>
+                <td>Last Name: </td>
+                <td><input type="text" id="txtLastName" name="LastName" /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Submit" /></td>
+            </tr>
+        </table>
+        <hr />
+        @ViewBag.Name
+    </form>
+</body>
+</html>

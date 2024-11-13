@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\templateembedding2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\templateembedding2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\author-item.jpg",
+      "PackagePath": "staticwebassets\\images\\author-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\banner-image3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\card-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-image2.jpg",
+      "PackagePath": "staticwebassets\\images\\card-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-image3.jpg",
+      "PackagePath": "staticwebassets\\images\\card-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-image5.jpg",
+      "PackagePath": "staticwebassets\\images\\card-image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-image6.jpg",
+      "PackagePath": "staticwebassets\\images\\card-image6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\card-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-item10.jpg",
+      "PackagePath": "staticwebassets\\images\\card-item10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\card-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\card-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\card-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-item5.jpg",
+      "PackagePath": "staticwebassets\\images\\card-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-item6.jpg",
+      "PackagePath": "staticwebassets\\images\\card-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-item7.jpg",
+      "PackagePath": "staticwebassets\\images\\card-item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-item8.jpg",
+      "PackagePath": "staticwebassets\\images\\card-item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-item9.jpg",
+      "PackagePath": "staticwebassets\\images\\card-item9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-large-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\card-large-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-large-item10.jpg",
+      "PackagePath": "staticwebassets\\images\\card-large-item10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-large-item11.jpg",
+      "PackagePath": "staticwebassets\\images\\card-large-item11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-large-item12.jpg",
+      "PackagePath": "staticwebassets\\images\\card-large-item12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-large-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\card-large-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-large-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\card-large-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-large-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\card-large-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-large-item5.jpg",
+      "PackagePath": "staticwebassets\\images\\card-large-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-large-item6.jpg",
+      "PackagePath": "staticwebassets\\images\\card-large-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-large-item7.jpg",
+      "PackagePath": "staticwebassets\\images\\card-large-item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-large-item8.jpg",
+      "PackagePath": "staticwebassets\\images\\card-large-item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\card-large-item9.jpg",
+      "PackagePath": "staticwebassets\\images\\card-large-item9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\chocolat\\close.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\chocolat\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen-black.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\chocolat\\fullscreen.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\chocolat\\left.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\chocolat\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\chocolat\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\chocolat\\right.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\collection-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\collection-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\collection-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\collection-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\commentor-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\commentor-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\commentor-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\commentor-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\commentor-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\commentor-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\main-logo.png",
+      "PackagePath": "staticwebassets\\images\\main-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\post-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\post-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\post-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\post-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\post-item5.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\post-item6.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\post-item7.jpg",
+      "PackagePath": "staticwebassets\\images\\post-item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\post-thumb-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-thumb-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\post-thumb-image2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-thumb-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\post-thumb-image3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-thumb-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\single-image.jpg",
+      "PackagePath": "staticwebassets\\images\\single-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\single-post-item.jpg",
+      "PackagePath": "staticwebassets\\images\\single-post-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\single-product-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\single-product-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\single-product-thumb1.jpg",
+      "PackagePath": "staticwebassets\\images\\single-product-thumb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\single-product-thumb2.jpg",
+      "PackagePath": "staticwebassets\\images\\single-product-thumb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\single-product-thumb3.jpg",
+      "PackagePath": "staticwebassets\\images\\single-product-thumb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\summary-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\summary-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\team-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\team-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\team-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\team-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\team-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\team-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\images\\team-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\team-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Taha ASP.net\\templateembedding2\\templateembedding2\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.templateembedding2.props",
+      "PackagePath": "build\\templateembedding2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.templateembedding2.props",
+      "PackagePath": "buildMultiTargeting\\templateembedding2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.templateembedding2.props",
+      "PackagePath": "buildTransitive\\templateembedding2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.templateembedding2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
