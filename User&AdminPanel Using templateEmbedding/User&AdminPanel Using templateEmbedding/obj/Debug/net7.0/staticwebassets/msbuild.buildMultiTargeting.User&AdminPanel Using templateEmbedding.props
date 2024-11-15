@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\User&amp;AdminPanel Using templateEmbedding.props" />
+</Project>
