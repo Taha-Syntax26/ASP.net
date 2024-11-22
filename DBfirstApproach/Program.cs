@@ -1,3 +1,5 @@
+using DBfirstApproach.Models;
+
 namespace DBfirstApproach
 {
     public class Program
@@ -8,6 +10,7 @@ namespace DBfirstApproach
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<ProductsContext>();
 
             var app = builder.Build();
 
